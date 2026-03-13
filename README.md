@@ -143,7 +143,7 @@ Pengguna dapat melihat informasi produk seperti nama produk, jumlah stok, dan me
 
 
 ## Validasi dan Notifikasi
-Bagian ini menampilkan berbagai **validasi input dan notifikasi sistem** yang bertujuan untuk memastikan data yang dimasukkan oleh pengguna sesuai dengan aturan yang telah ditentukan.
+Bagian ini menampilkan berbagai validasi input dan notifikasi sistem yang bertujuan untuk memastikan data yang dimasukkan oleh pengguna sesuai dengan aturan yang telah ditentukan.
 
 ### Email dan Password wajib diisi
 <img width="551" height="230" alt="image" src="https://github.com/user-attachments/assets/1897e339-c23c-4a5c-938a-cbaa8c631944" />
