@@ -7,7 +7,7 @@ Aplikasi manajemen stok barang (Inventory) berbasis Flutter yang dirancang khusu
 ---
 
 ## 📌 Deskripsi Aplikasi
-Aplikasi ini membantu pemilik usaha untuk mendigitalisasi pencatatan stok barang mereka. Terhubung langsung dengan **Supabase** sebagai backend (Database & Auth), memungkinkan pengguna untuk memantau jumlah stok, kategori produk, hingga harga barang di mana saja dan kapan saja. Desain aplikasi difokuskan pada keterbacaan data yang tinggi dengan estetika minimalis.
+Aplikasi ini membantu pemilik usaha untuk mendigitalisasi pencatatan stok barang mereka. Terhubung langsung dengan Supabase sebagai backend (Database & Auth), memungkinkan pengguna untuk memantau jumlah stok, kategori produk, hingga harga barang di mana saja dan kapan saja. Desain aplikasi difokuskan pada keterbacaan data yang tinggi dengan estetika minimalis.
 
 ## Fitur Utama
 * **Authentication:** Sistem Login dan Register yang aman menggunakan Supabase Auth.
@@ -93,52 +93,52 @@ Berikut adalah struktur direktori yang digunakan dalam proyek ini:
     Berisi dokumentasi proyek seperti deskripsi aplikasi, struktur proyek, dan cara menjalankan aplikasi.: Dokumentasi lengkap mengenai proyek ini.
 
 ## 📸 Tampilan Desain
-Desain aplikasi ini menggunakan pendekatan **Soft UI/Modern Clean** yang mengutamakan *whitespace* dan kontras tipografi yang jelas.
+Desain aplikasi ini menggunakan pendekatan Soft UI/Modern Clean yang mengutamakan whitespace dan kontras tipografi yang jelas.
 
 ## Tampilan Aplikasi (Light Mode/Dark Mode)
 
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/08314517-10f4-4e9f-882f-476494a6b89f" />
 
-Gambar ini menampilkan halaman **login aplikasi pada mode terang (Light Mode)**.  
+Gambar ini menampilkan halaman login aplikasi pada mode terang (Light Mode).  
 Pada halaman ini pengguna diminta untuk memasukkan email dan password untuk masuk ke dalam aplikasi. Tampilan menggunakan latar belakang terang agar lebih nyaman digunakan pada kondisi pencahayaan normal.
 
 <img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/fb3464aa-2bda-461e-ba4c-2b10119beef3" />
 
-Gambar ini menampilkan halaman **login aplikasi pada mode gelap (Dark Mode)**.  
+Gambar ini menampilkan halaman login aplikasi pada mode gelap (Dark Mode).  
 Mode ini menggunakan latar belakang gelap yang bertujuan untuk mengurangi kelelahan mata saat aplikasi digunakan dalam kondisi pencahayaan rendah.
 
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/a09959b2-e32a-406e-bf57-7d6a4ac9110e" />
 
-Gambar ini menampilkan **halaman Dashboard pada mode terang (Light Mode)**.  
+Gambar ini menampilkan halaman Dashboard pada mode terang (Light Mode).  
 Pada halaman ini pengguna dapat melihat ringkasan informasi inventaris, seperti jumlah produk yang tersedia serta statistik data yang ditampilkan dalam bentuk kartu informasi.
 
 <img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/11034401-c53f-49b5-a2b3-3c361da4e6e4" />
 
-Gambar ini menampilkan **halaman Dashboard pada mode gelap (Dark Mode)**.  
+Gambar ini menampilkan halaman Dashboard pada mode gelap (Dark Mode).  
 Tampilan ini memiliki fungsi yang sama dengan Dashboard pada Light Mode, namun menggunakan tema gelap untuk memberikan kenyamanan visual bagi pengguna yang menggunakan aplikasi pada kondisi pencahayaan rendah.
 
 ### Navigation Drawer
 <img width="371" height="967" alt="image" src="https://github.com/user-attachments/assets/c5a2be05-8003-418c-9716-381cbbf96a78" />
 
-Menu **Navigation Drawer** digunakan untuk memudahkan pengguna dalam berpindah antar halaman di dalam aplikasi.  
+Menu Navigation Drawer digunakan untuk memudahkan pengguna dalam berpindah antar halaman di dalam aplikasi.  
 Menu ini biasanya berisi beberapa navigasi utama seperti Dashboard, Daftar Produk, Profil, serta pengaturan lainnya.
 
 ### Profile
 <img width="330" height="316" alt="image" src="https://github.com/user-attachments/assets/a9b2a3d3-05a4-43b7-ad95-e14402dcd704" />
 
-Halaman **Profile** menampilkan informasi akun pengguna yang sedang login.  
+Halaman Profile menampilkan informasi akun pengguna yang sedang login.  
 Pada halaman ini pengguna dapat melihat data akun yang terdaftar di sistem.
 
 ### Dashboard
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/1f21d7b4-81d4-45e5-beef-1cca375e6b15" />
 
-Halaman **Dashboard** merupakan halaman utama setelah pengguna berhasil login.  
+Halaman Dashboard merupakan halaman utama setelah pengguna berhasil login.  
 Halaman ini menampilkan ringkasan informasi seperti statistik produk dan gambaran umum inventaris yang tersedia pada aplikasi.
 
 ### Daftar Produk
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/6e5d7697-d50d-46d1-b13d-273acda79ab7" />
 
-Halaman **Daftar Produk** menampilkan seluruh data produk yang tersimpan dalam database.  
+Halaman Daftar Produk menampilkan seluruh data produk yang tersimpan dalam database.  
 Pengguna dapat melihat informasi produk seperti nama produk, jumlah stok, dan melakukan pengelolaan data produk.
 
 
