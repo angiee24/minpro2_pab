@@ -143,7 +143,7 @@ class _FormProductPageState extends State<FormProductPage> {
                   
                   _buildLabel("Kategori Produk"),
                   DropdownButtonFormField<String>(
-                    value: _selectedKategori, 
+                    initialValue: _selectedKategori, 
                     decoration: InputDecoration(
                       prefixIcon: Icon(Icons.category_outlined, color: Colors.blue.shade700),
                       filled: true,

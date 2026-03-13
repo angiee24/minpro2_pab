@@ -155,8 +155,6 @@ class _AuthPageState extends State<AuthPage> {
                         return "Email wajib diisi";
                       }
                       
-                      // --- VALIDASI EMAIL GOOGLE YANG KETAT ---
-                      // Penjelasan: Harus mulai huruf/angka, boleh ada titik, akhiran @gmail.com
                       final emailRegex = RegExp(r'^[a-z0-9][a-z0-9.]*@gmail\.com$');
                       if (!emailRegex.hasMatch(value.toLowerCase())) {
                         return "Format email Gmail tidak valid";
