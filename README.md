@@ -153,7 +153,7 @@ Sistem akan menampilkan pesan peringatan jika pengguna mencoba login atau regist
 ### Password Minimal 6 Karakter
 <img width="532" height="114" alt="image" src="https://github.com/user-attachments/assets/62979cdb-0b1c-41c3-88b6-4425c5161048" />
 
-Validasi ini memastikan bahwa password yang dimasukkan memiliki minimal **6 karakter** untuk meningkatkan keamanan akun pengguna.
+Validasi ini memastikan bahwa password yang dimasukkan memiliki minimal 6 karakter untuk meningkatkan keamanan akun pengguna.
 
 ### Format Gmail wajib sesuai
 <img width="525" height="108" alt="image" src="https://github.com/user-attachments/assets/cb85a50c-b4a3-4f30-bcea-a87cc9fafa5d" />
