@@ -2,7 +2,7 @@
 
 # 📱 Aplikasi Stok Produk UMKM
 
-Aplikasi manajemen stok barang (Inventory) berbasis Flutter yang dirancang khusus untuk pelaku UMKM. Aplikasi ini mengusung tema **Modern Clean & Soft UI** untuk memberikan pengalaman pengguna yang nyaman, intuitif, dan profesional dalam mengelola data produk secara real-time.
+Aplikasi manajemen stok barang (Inventory) berbasis Flutter yang dirancang khusus untuk pelaku UMKM. Aplikasi ini mengusung tema Modern Clean & Soft UI untuk memberikan pengalaman pengguna yang nyaman, intuitif, dan profesional dalam mengelola data produk secara real-time.
 
 ---
 
