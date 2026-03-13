@@ -6,10 +6,10 @@ Aplikasi manajemen stok barang (Inventory) berbasis Flutter yang dirancang khusu
 
 ---
 
-## 📝 Deskripsi Aplikasi
+## 📌 Deskripsi Aplikasi
 Aplikasi ini membantu pemilik usaha untuk mendigitalisasi pencatatan stok barang mereka. Terhubung langsung dengan **Supabase** sebagai backend (Database & Auth), memungkinkan pengguna untuk memantau jumlah stok, kategori produk, hingga harga barang di mana saja dan kapan saja. Desain aplikasi difokuskan pada keterbacaan data yang tinggi dengan estetika minimalis.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 * **Authentication:** Sistem Login dan Register yang aman menggunakan Supabase Auth.
 * **Dashboard Analytics:** Ringkasan total produk, stok menipis, dan stok habis dalam bentuk kartu informasi yang informatif.
 * **Inventory Management (CRUD):** Tambah, Lihat, Edit, dan Hapus data produk secara real-time.
@@ -18,7 +18,7 @@ Aplikasi ini membantu pemilik usaha untuk mendigitalisasi pencatatan stok barang
 * **Dark & Light Mode:** Dukungan tema gelap dan terang yang menyesuaikan preferensi mata pengguna.
 * **Real-time Notifications:** SnackBar informatif yang muncul hanya saat aksi (simpan/edit/hapus) berhasil dilakukan.
 
-## 🛠️ Widget yang Digunakan
+## Widget yang Digunakan
 Aplikasi ini dibangun menggunakan berbagai widget Flutter untuk mencapai tampilan yang modern:
 
 ### 1. Layout & Structure
@@ -91,7 +91,6 @@ Berikut adalah struktur direktori yang digunakan dalam proyek ini:
 
   * **📄 README.md**  
     Berisi dokumentasi proyek seperti deskripsi aplikasi, struktur proyek, dan cara menjalankan aplikasi.: Dokumentasi lengkap mengenai proyek ini.
-
 
 ## 📸 Tampilan Desain
 Desain aplikasi ini menggunakan pendekatan **Soft UI/Modern Clean** yang mengutamakan *whitespace* dan kontras tipografi yang jelas.
@@ -202,6 +201,16 @@ Notifikasi ini menandakan bahwa data produk baru berhasil ditambahkan ke dalam d
 <img width="431" height="54" alt="image" src="https://github.com/user-attachments/assets/7085563f-14e6-4a21-a4b2-6ff7693bc3b5" />
 
 Jika pengguna mencoba menambahkan produk dengan nama yang sudah ada di database, sistem akan menampilkan notifikasi bahwa produk tersebut sudah terdaftar.
+
+## Tools yang digunakan
+
+* **Frontend:** Flutter (Dart)
+* **Backend:** Supabase (Database & Auth)
+* **State Management:** StatefulWidget & setState
+* **Local Env:** flutter_dotenv
+
+---
+2026 Angela Caroline Budiman - Sistem Informasi A'2024
 
 
 
