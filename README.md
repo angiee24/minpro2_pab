@@ -92,6 +92,9 @@ Berikut adalah struktur direktori yang digunakan dalam proyek ini:
   * **📄 README.md**  
     Berisi dokumentasi proyek seperti deskripsi aplikasi, struktur proyek, dan cara menjalankan aplikasi.: Dokumentasi lengkap mengenai proyek ini.
 
+## Struktur SupaBase
+<img width="1920" height="393" alt="Image" src="https://github.com/user-attachments/assets/135f1833-469c-4699-bd98-37f903337b5c" />
+
 ## 📸 Tampilan Desain
 Desain aplikasi ini menggunakan pendekatan Soft UI/Modern Clean yang mengutamakan whitespace dan kontras tipografi yang jelas.
 
